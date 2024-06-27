@@ -7,6 +7,6 @@ The dataset comprises several columns with information about pig behavior and en
 Particularly, the "posture" column delineates the pig's stance into distinct states: 0 signifies "Lateral Right Lying", 1 corresponds to "Lateral Left Lying", 2 denotes "Sitting", 3 represents "Standing", and 4 indicates "Sternal Lying". And “Sternal Lying”' means the pig lying down and the chest of a pig touching the ground as the picture below. This classification offers insights into the different positions assumed by the pigs throughout the observation period.
 
 ## How to use
-Kmeans Analysis -> `kmeans.iypnb`
-Subgroup Analysis -> `subgroup_analysis.ipynb`
-Chloe traditional classifier -> `./chloe_trad_classifier`
+Kmeans Analysis -> `kmeans.iypnb` \
+Subgroup Analysis -> `subgroup_analysis.ipynb` \
+Chloe traditional classifier -> `./chloe_trad_classifier` 
